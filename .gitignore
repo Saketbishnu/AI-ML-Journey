@@ -5,3 +5,5 @@ HousePricePrediction.csv
 insurance.csv
 SQL/SQL2 Notes.pdf
 SQL/SQL_CheatSheet.pdf
+# ChromaDB
+chroma.sqlite3
