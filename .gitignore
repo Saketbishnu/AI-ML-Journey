@@ -1,13 +1,23 @@
+# Jupyter
 .ipynb_checkpoints/
 .virtual_documents/
+
+# Python
 __pycache__/
-HousePricePrediction.csv
-insurance.csv
-SQL/SQL2 Notes.pdf
-SQL/SQL_CheatSheet.pdf
-# ChromaDB
-chroma.sqlite3
+*.pyc
+
+# Data files
 *.csv
 *.xlsx
 *.xls
 *.json
+
+# Web scraping generated data
+dataCollection/scraped_data/
+
+# ChromaDB
+chroma.sqlite3
+
+# SQL notes
+SQL/SQL2 Notes.pdf
+SQL/SQL_CheatSheet.pdf
